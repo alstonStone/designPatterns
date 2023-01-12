@@ -1,1 +1,7 @@
 .metadata/
+DesignPatterns/.classpath
+DesignPatterns/.gitignore
+DesignPatterns/.project
+DesignPatterns/.settings/org.eclipse.core.resources.prefs
+DesignPatterns/.settings/org.eclipse.jdt.core.prefs
+DesignPatterns/src/module-info.java
